@@ -1,0 +1,7 @@
+git clone https://...
+git status - to see edited/new files
+git add file.txt - add file.txt to package, use -A or . to add everything
+git commit -m "comment you want" - to make a commitment
+git push - to commit as an creator
+
+git pull - to pull a project, usualy changed on the other side
